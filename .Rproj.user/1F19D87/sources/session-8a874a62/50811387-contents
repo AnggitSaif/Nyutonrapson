@@ -1,0 +1,9 @@
+---
+title: "README"
+output: html_document
+---
+
+**Newton Rapshon Optimization**
+
+This function finds the root of function using the newton-rapshon method
+
