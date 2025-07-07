@@ -11,7 +11,7 @@ system('git config user.name "AnggitSaif"')
 system('git config user.email "asaifnur@gmail.com"')
 
 
-#system("git remote add origin https://github.com/Anggit/NROptimation.git")
+system("git remote add origin https://github.com/Anggit/NROptimation.git")
 system("git remote set-url origin https://github.com/AnggitSaif/Nyutonrapson.git")
 system("git branch -M main")
 system("git push -u origin main")
